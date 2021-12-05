@@ -75,13 +75,6 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/contact">
                 Contact
               </Link>
-              
-              <!-- This is a comment -->
-              <Link className="navbar-item" to="/contact/examples">
-                Form Examples
-              </Link>
-              <!-- Comments are not displayed in the browser -->
-              
             </div>
             <div className="navbar-end has-text-centered">
               <a
